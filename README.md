@@ -1,4 +1,3 @@
-
 Project Structure:
 
 employee-allocation-ai/
