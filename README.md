@@ -1,16 +1,66 @@
-cd employee-allocation-ai-optimized
+employee-allocation-ai/
+│
+├── app.py
+├── employee_ai_pipeline.py
+├── create_sample_data.py
+├── check_database.py
+├── requirements.txt
+├── .env.example
+├── README.md
+│
+├── config/
+│   └── project_requirement.json
+│
+├── data/
+│   └── employee_dataset.xlsx
+│
+├── src/
+│   ├── pipeline.py
+│   ├── chatbot.py
+│   └── __init__.py
+│
+├── output/
+│
+└── .streamlit/
+    └── config.toml
+    ================================================
+    Architecture:
+                       employee_dataset.xlsx
+                           │
+                           ▼
+                  employee_ai_pipeline.py
+                           │
+             ┌─────────────┼──────────────┐
+             ▼             ▼              ▼
+       Sentence-BERT   Business Rules   K-Means
+             │             │              │
+             ▼             ▼              ▼
+       Semantic Score   Rule Score      Clusters
+             │             │
+             └──────┬──────┘
+                    ▼
+             Final Fit Score
+                    │
+                    ▼
+             Bench Risk
+                    │
+                    ▼
+          Recommendation Ranking
+                    │
+                    ▼
+        enhanced_employee_dataset.csv
+                    │
+                    ▼
+              employees.db
+                 /      \
+                /        \
+               ▼          ▼
+        Streamlit UI   LangChain
+                         │
+                         ▼
+                       Groq
 
-python -m venv venv
-.\venv\Scripts\Activate.ps1
-
-pip install -r requirements.txt
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
-
-Powershell:
-python create_sample_data.py
-python employee_ai_pipeline.py
-python check_database.py
-
-
-streamlit run app.py
+    
