@@ -1,0 +1,15 @@
+{
+  "role": "Backend Java Developer",
+  "primary_skill": "Java",
+  "secondary_skills": [
+    "Spring Boot",
+    "Microservices",
+    "SQL"
+  ],
+  "skill_group": "Backend",
+  "location": "Bangalore",
+  "domain": "Banking",
+  "min_experience": 2.0,
+  "max_experience": 6.0,
+  "allocation_status": "Unallocated"
+}

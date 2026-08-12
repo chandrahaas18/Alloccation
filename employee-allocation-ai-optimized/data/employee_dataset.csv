@@ -1,0 +1,351 @@
+employee_id,employee_name,experience,primary_skill,secondary_skill,skill_group,location,domain,allocation_status,bench_age,current_project,availability_date,certification,education,preferred_work_mode,preferred_domain,years_in_current_skill,communication_rating,last_project_rating
+EMP0001,Priya Kulkarni,8.7,Java,DAX,Backend,Mumbai,Banking,Unallocated,35,Available,2026-10-15,Scrum Master,B.Tech,Hybrid,Banking,4.2,3.8,2.6
+EMP0002,Aarav Chopra,5.1,Vue,Spark,Frontend,Hyderabad,Manufacturing,Allocated,8,CRM Upgrade,2026-09-13,Power BI Certification,B.E.,Hybrid,Technology,2.8,2.7,2.7
+EMP0003,Neha Patel,3.4,Python,TypeScript,Data,Bangalore,Telecom,Unallocated,117,Available,2026-09-07,ISTQB,B.Sc,Hybrid,Manufacturing,1.3,4.2,4.4
+EMP0004,Pooja Gupta,10.0,Python,REST APIs,Backend,Chennai,Insurance,Unallocated,116,Available,2026-10-25,Power BI Certification,B.Tech,Onsite,Manufacturing,4.5,4.3,2.9
+EMP0005,Divya Kulkarni,11.4,GCP,REST APIs,Cloud,Kolkata,Technology,Allocated,17,Core Banking Modernization,2026-08-30,AWS Certified,M.Tech,Remote,Retail,4.4,4.8,3.9
+EMP0006,Kiran Reddy,7.7,Power BI,SQL,Data,Hyderabad,Manufacturing,Unallocated,117,Available,2026-10-11,Power BI Certification,B.Sc,Remote,Telecom,4.5,3.0,5.0
+EMP0007,Kiran Kulkarni,1.5,Performance Testing,SQL,Testing,Kolkata,Manufacturing,Unallocated,28,Available,2026-09-24,Azure Certified,MCA,Remote,Telecom,1.4,3.8,4.9
+EMP0008,Vikram Patel,8.0,Java,Kubernetes,Backend,Pune,Insurance,Allocated,8,API Modernization,2026-08-01,Power BI Certification,B.Sc,Hybrid,Telecom,7.2,4.7,3.2
+EMP0009,Neha Chopra,2.7,Automation Testing,Python,Testing,Bangalore,Telecom,Unallocated,41,Available,2026-09-11,None,B.Tech,Hybrid,Retail,2.4,4.6,3.3
+EMP0010,Shruti Verma,10.2,Python,Microservices,Backend,Kolkata,Telecom,On Notice,2,Available,2026-08-17,GCP Certified,MCA,Onsite,Insurance,5.2,4.7,3.6
+EMP0011,Aditya Kulkarni,8.8,Vue,AWS,Frontend,Chennai,Healthcare,Allocated,9,API Modernization,2026-08-16,Java Certification,B.E.,Hybrid,Retail,3.2,3.9,4.0
+EMP0012,Sneha Verma,8.3,Java,REST APIs,Backend,Bangalore,Telecom,Unallocated,17,Available,2026-08-31,Power BI Certification,MCA,Hybrid,Telecom,3.6,4.8,3.9
+EMP0013,Priya Patel,9.1,Azure,AWS,Cloud,Pune,Retail,Allocated,6,CRM Upgrade,2026-09-22,None,B.Tech,Onsite,Manufacturing,8.6,2.7,3.5
+EMP0014,Kiran Joshi,3.2,SQL,SQL,Data,Chennai,Healthcare,Unallocated,114,Available,2026-09-01,Azure Certified,MCA,Onsite,Banking,1.2,5.0,4.6
+EMP0015,Aditya Khan,2.3,Python,Spring Boot,Backend,Hyderabad,Healthcare,Allocated,6,Core Banking Modernization,2026-09-19,Power BI Certification,MCA,Remote,Healthcare,1.8,4.3,4.5
+EMP0016,Arjun Singh,2.6,Azure,Python,Cloud,Bangalore,Manufacturing,Unallocated,14,Available,2026-09-10,AWS Certified,B.Tech,Onsite,Healthcare,1.7,4.6,2.9
+EMP0017,Divya Joshi,9.9,Selenium,Microservices,Testing,Mumbai,Insurance,Unallocated,17,Available,2026-10-14,AWS Certified,B.Sc,Hybrid,Healthcare,7.4,3.9,3.3
+EMP0018,Aditya Gupta,7.9,Power BI,AWS,Data,Delhi,Retail,Unallocated,67,Available,2026-09-28,ISTQB,B.Tech,Hybrid,Healthcare,5.7,3.9,2.7
+EMP0019,Ravi Khan,6.1,Cypress,Docker,Testing,Chennai,Retail,Unallocated,89,Available,2026-08-21,None,B.Sc,Onsite,Retail,4.4,5.0,4.1
+EMP0020,Anil Patel,3.8,Go,Microservices,Backend,Delhi,Telecom,Allocated,4,Customer Portal,2026-09-04,Power BI Certification,B.Sc,Hybrid,Manufacturing,2.1,4.2,4.6
+EMP0021,Ravi Kulkarni,3.3,Performance Testing,TypeScript,Testing,Kolkata,Retail,Allocated,1,Core Banking Modernization,2026-08-01,ISTQB,B.E.,Onsite,Retail,1.5,3.6,4.3
+EMP0022,Neha Sharma,1.7,Selenium,Postman,Testing,Chennai,Telecom,On Notice,4,Available,2026-10-10,GCP Certified,MCA,Hybrid,Banking,0.9,4.7,4.5
+EMP0023,Pooja Chopra,2.8,C#,Python,Backend,Kolkata,Healthcare,Unallocated,26,Available,2026-10-19,GCP Certified,B.E.,Hybrid,Technology,2.3,4.7,2.6
+EMP0024,Anil Gupta,9.3,Data Engineering,Spark,Data,Delhi,Banking,Allocated,7,CRM Upgrade,2026-08-05,None,B.E.,Hybrid,Technology,8.4,3.4,4.6
+EMP0025,Anil Verma,0.8,Angular,Microservices,Frontend,Kolkata,Retail,Unallocated,84,Available,2026-09-14,Scrum Master,B.Sc,Remote,Banking,0.3,4.9,2.9
+EMP0026,Ananya Mishra,1.7,SQL,Python,Data,Bangalore,Healthcare,Allocated,10,Claims Platform,2026-09-02,AWS Certified,MCA,Hybrid,Telecom,1.5,3.8,4.3
+EMP0027,Isha Nair,5.2,JavaScript,AWS,Frontend,Kolkata,Banking,On Notice,10,Available,2026-09-08,Power BI Certification,MCA,Remote,Healthcare,4.0,3.9,3.0
+EMP0028,Aarav Reddy,7.3,Azure,Kubernetes,Cloud,Hyderabad,Healthcare,Unallocated,140,Available,2026-10-14,ISTQB,MCA,Remote,Healthcare,5.5,3.8,4.5
+EMP0029,Vikram Patel,3.6,React,Postman,Frontend,Kolkata,Insurance,Allocated,19,Data Lake Migration,2026-08-29,Java Certification,B.E.,Hybrid,Banking,1.8,3.7,4.6
+EMP0030,Aditya Mehta,5.1,Node.js,TypeScript,Backend,Hyderabad,Insurance,Allocated,6,Core Banking Modernization,2026-08-14,Scrum Master,B.E.,Hybrid,Technology,4.7,3.8,2.6
+EMP0031,Neha Mishra,5.5,React,REST APIs,Frontend,Kolkata,Healthcare,Allocated,16,CRM Upgrade,2026-10-10,None,B.E.,Onsite,Technology,3.5,3.1,3.1
+EMP0032,Ravi Singh,5.8,Python,Kubernetes,Data,Hyderabad,Retail,Unallocated,112,Available,2026-09-12,ISTQB,B.Sc,Hybrid,Insurance,2.6,3.5,2.9
+EMP0033,Ananya Sharma,5.1,React,Docker,Frontend,Kolkata,Healthcare,Unallocated,119,Available,2026-09-19,AWS Certified,B.Sc,Remote,Healthcare,1.8,3.4,4.4
+EMP0034,Divya Mehta,8.7,Kubernetes,Docker,Cloud,Chennai,Healthcare,Allocated,19,API Modernization,2026-08-04,Scrum Master,M.Tech,Onsite,Manufacturing,7.2,4.3,4.6
+EMP0035,Arjun Kulkarni,6.4,Vue,Spring Boot,Frontend,Bangalore,Manufacturing,Allocated,18,CRM Upgrade,2026-08-18,None,B.E.,Hybrid,Retail,3.7,3.0,3.3
+EMP0036,Ravi Mehta,8.8,GCP,Spring Boot,Cloud,Delhi,Telecom,Allocated,8,Core Banking Modernization,2026-09-14,Java Certification,B.Tech,Onsite,Banking,7.1,4.9,3.0
+EMP0037,Arjun Iyer,2.2,Go,React,Backend,Delhi,Retail,Unallocated,29,Available,2026-09-17,GCP Certified,B.Sc,Onsite,Manufacturing,1.7,4.4,2.9
+EMP0038,Aditya Joshi,6.9,SQL,DAX,Data,Hyderabad,Banking,On Notice,18,Available,2026-10-15,Java Certification,B.Tech,Onsite,Technology,3.7,4.2,4.5
+EMP0039,Ravi Pillai,4.3,Selenium,AWS,Testing,Chennai,Banking,Allocated,11,CRM Upgrade,2026-10-02,Azure Certified,MCA,Remote,Manufacturing,3.8,3.6,2.9
+EMP0040,Shruti Mehta,11.1,Vue,TypeScript,Frontend,Kolkata,Manufacturing,Unallocated,137,Available,2026-10-15,Power BI Certification,M.Tech,Hybrid,Technology,10.1,3.2,3.6
+EMP0041,Shruti Verma,7.2,Kubernetes,REST APIs,Cloud,Hyderabad,Healthcare,Unallocated,7,Available,2026-08-28,ISTQB,M.Tech,Remote,Retail,6.3,4.3,3.2
+EMP0042,Shruti Pillai,10.9,Go,Spark,Backend,Hyderabad,Manufacturing,Unallocated,104,Available,2026-09-30,None,MCA,Hybrid,Banking,5.7,3.5,3.1
+EMP0043,Neha Nair,5.7,API Testing,REST APIs,Testing,Delhi,Healthcare,Allocated,13,Data Lake Migration,2026-09-09,Power BI Certification,B.E.,Hybrid,Manufacturing,2.7,2.8,3.8
+EMP0044,Rohan Mishra,2.9,Angular,Kubernetes,Frontend,Bangalore,Technology,Allocated,18,Claims Platform,2026-09-07,Java Certification,M.Tech,Hybrid,Retail,1.0,3.8,3.2
+EMP0045,Shruti Patel,3.7,Go,Postman,Backend,Bangalore,Telecom,On Notice,20,Available,2026-09-06,None,MCA,Remote,Retail,1.7,2.6,4.9
+EMP0046,Arjun Kulkarni,9.5,AWS,AWS,Cloud,Bangalore,Insurance,Unallocated,18,Available,2026-08-20,Power BI Certification,B.Tech,Hybrid,Banking,6.5,3.5,4.0
+EMP0047,Nisha Verma,9.0,Cypress,Azure,Testing,Pune,Retail,Unallocated,113,Available,2026-10-12,AWS Certified,B.Sc,Onsite,Banking,8.3,3.0,3.0
+EMP0048,Aarav Joshi,3.1,Python,React,Backend,Delhi,Telecom,Allocated,5,API Modernization,2026-09-07,AWS Certified,B.E.,Remote,Manufacturing,1.6,4.6,2.7
+EMP0049,Ananya Patel,9.2,JavaScript,Python,Frontend,Hyderabad,Manufacturing,Allocated,6,Customer Portal,2026-09-04,GCP Certified,B.Tech,Hybrid,Insurance,7.6,4.0,4.6
+EMP0050,Anil Pillai,1.9,Data Engineering,Python,Data,Pune,Healthcare,Allocated,12,Digital Payments,2026-10-16,AWS Certified,MCA,Onsite,Retail,1.4,2.6,3.1
+EMP0051,Arjun Sharma,11.0,Automation Testing,Spark,Testing,Kolkata,Insurance,On Notice,8,Available,2026-09-30,None,M.Tech,Hybrid,Telecom,6.7,4.5,4.9
+EMP0052,Meera Nair,5.0,GCP,TypeScript,Cloud,Delhi,Healthcare,Unallocated,26,Available,2026-09-06,Scrum Master,B.Sc,Hybrid,Healthcare,2.0,3.1,2.8
+EMP0053,Siddharth Joshi,9.6,Kubernetes,Spring Boot,Cloud,Hyderabad,Telecom,Unallocated,138,Available,2026-09-16,None,MCA,Hybrid,Insurance,4.9,2.8,3.2
+EMP0054,Meera Reddy,0.8,AWS,Python,Cloud,Bangalore,Telecom,Allocated,7,CRM Upgrade,2026-08-12,Java Certification,B.Tech,Remote,Banking,0.6,2.9,4.8
+EMP0055,Shruti Iyer,8.3,Python,React,Data,Mumbai,Insurance,Unallocated,123,Available,2026-09-19,Java Certification,B.Sc,Onsite,Manufacturing,7.3,4.7,3.2
+EMP0056,Nisha Singh,10.8,GCP,Kubernetes,Cloud,Kolkata,Telecom,Allocated,0,API Modernization,2026-08-20,None,B.Sc,Remote,Retail,5.9,4.4,3.4
+EMP0057,Divya Verma,11.3,Power BI,Spark,Data,Pune,Banking,Unallocated,98,Available,2026-09-10,None,MCA,Remote,Manufacturing,9.3,4.1,2.9
+EMP0058,Siddharth Patel,6.0,Python,Python,Backend,Pune,Banking,Allocated,3,Customer Portal,2026-09-22,GCP Certified,B.Tech,Remote,Technology,5.6,3.3,4.2
+EMP0059,Vikram Kulkarni,9.9,C#,DAX,Backend,Kolkata,Healthcare,Allocated,12,Core Banking Modernization,2026-10-19,Azure Certified,B.E.,Onsite,Manufacturing,8.9,5.0,4.4
+EMP0060,Siddharth Gupta,8.9,AWS,DAX,Cloud,Chennai,Banking,Allocated,3,Core Banking Modernization,2026-09-11,AWS Certified,M.Tech,Remote,Retail,5.4,3.1,3.5
+EMP0061,Isha Kulkarni,2.4,Angular,Docker,Frontend,Pune,Telecom,Allocated,12,Customer Portal,2026-08-30,None,M.Tech,Remote,Retail,1.8,4.7,3.7
+EMP0062,Arjun Reddy,2.2,Python,AWS,Data,Pune,Manufacturing,Allocated,11,Data Lake Migration,2026-09-28,Power BI Certification,B.E.,Remote,Technology,1.4,3.1,3.9
+EMP0063,Anil Sharma,11.4,API Testing,Azure,Testing,Kolkata,Manufacturing,Unallocated,101,Available,2026-08-07,None,M.Tech,Hybrid,Telecom,9.5,3.0,3.0
+EMP0064,Sneha Reddy,7.4,Power BI,Spark,Data,Pune,Banking,Allocated,20,Cloud Transformation,2026-08-17,Azure Certified,M.Tech,Remote,Manufacturing,4.4,3.0,4.5
+EMP0065,Anil Khan,6.0,Python,Postman,Data,Pune,Technology,Unallocated,42,Available,2026-09-07,ISTQB,B.Tech,Remote,Banking,2.6,4.9,4.7
+EMP0066,Anil Pillai,4.5,Kubernetes,Microservices,Cloud,Pune,Retail,Allocated,0,Data Lake Migration,2026-10-14,Scrum Master,M.Tech,Hybrid,Manufacturing,2.2,2.6,4.7
+EMP0067,Siddharth Khan,10.6,API Testing,DAX,Testing,Chennai,Manufacturing,Unallocated,16,Available,2026-09-22,Azure Certified,B.E.,Hybrid,Banking,5.6,3.7,2.7
+EMP0068,Ananya Mishra,4.8,Cypress,DAX,Testing,Delhi,Insurance,Unallocated,138,Available,2026-09-23,Azure Certified,MCA,Onsite,Healthcare,4.4,3.2,4.2
+EMP0069,Priya Kulkarni,5.4,TypeScript,REST APIs,Frontend,Mumbai,Manufacturing,Unallocated,92,Available,2026-09-15,AWS Certified,MCA,Remote,Insurance,5.0,4.9,4.6
+EMP0070,Sneha Chopra,7.6,Python,REST APIs,Backend,Hyderabad,Insurance,Allocated,0,Claims Platform,2026-08-09,Java Certification,B.Sc,Hybrid,Technology,6.6,3.3,2.9
+EMP0071,Neha Reddy,3.6,Selenium,Spark,Testing,Hyderabad,Banking,On Notice,4,Available,2026-10-24,AWS Certified,B.E.,Hybrid,Retail,3.0,3.1,3.3
+EMP0072,Priya Singh,1.1,JavaScript,Microservices,Frontend,Pune,Healthcare,Allocated,16,Cloud Transformation,2026-10-05,Azure Certified,MCA,Onsite,Insurance,1.0,2.6,4.5
+EMP0073,Shruti Verma,5.5,API Testing,TypeScript,Testing,Pune,Manufacturing,On Notice,1,Available,2026-08-14,None,MCA,Hybrid,Banking,3.0,2.9,2.8
+EMP0074,Nisha Mehta,6.5,Automation Testing,Python,Testing,Mumbai,Healthcare,Unallocated,135,Available,2026-08-13,Azure Certified,B.Sc,Onsite,Technology,3.1,3.6,3.1
+EMP0075,Ananya Nair,4.9,Data Engineering,AWS,Data,Chennai,Retail,Allocated,10,Customer Portal,2026-10-27,None,B.Tech,Hybrid,Technology,2.0,3.6,4.4
+EMP0076,Neha Nair,6.6,Power BI,AWS,Data,Bangalore,Healthcare,Allocated,17,Cloud Transformation,2026-10-25,Scrum Master,B.Tech,Remote,Telecom,3.5,2.8,3.8
+EMP0077,Priya Chopra,3.0,TypeScript,Kubernetes,Frontend,Mumbai,Insurance,Unallocated,94,Available,2026-09-24,AWS Certified,B.Sc,Onsite,Technology,2.3,2.6,3.2
+EMP0078,Arjun Kulkarni,4.4,Spark,TypeScript,Data,Bangalore,Insurance,Unallocated,36,Available,2026-10-21,AWS Certified,B.Tech,Onsite,Telecom,2.1,3.5,3.4
+EMP0079,Isha Patel,8.4,Spark,Spring Boot,Data,Hyderabad,Insurance,Allocated,18,Core Banking Modernization,2026-10-26,Azure Certified,M.Tech,Remote,Manufacturing,5.1,4.0,3.5
+EMP0080,Arjun Mehta,1.8,Vue,Python,Frontend,Delhi,Retail,Allocated,9,Core Banking Modernization,2026-08-29,Scrum Master,B.Sc,Hybrid,Banking,0.9,4.9,4.4
+EMP0081,Meera Gupta,4.1,Spark,TypeScript,Data,Mumbai,Manufacturing,Unallocated,110,Available,2026-08-30,ISTQB,B.Tech,Remote,Technology,3.3,3.6,3.6
+EMP0082,Ananya Reddy,6.8,C#,Microservices,Backend,Pune,Banking,Allocated,20,Cloud Transformation,2026-08-22,None,M.Tech,Hybrid,Healthcare,5.8,3.1,4.0
+EMP0083,Divya Nair,4.9,Selenium,Spark,Testing,Hyderabad,Banking,Unallocated,86,Available,2026-10-05,Azure Certified,B.Sc,Onsite,Insurance,4.4,3.4,4.3
+EMP0084,Isha Gupta,1.6,Angular,Spark,Frontend,Kolkata,Manufacturing,Unallocated,44,Available,2026-08-10,GCP Certified,MCA,Remote,Technology,1.1,3.9,4.2
+EMP0085,Kiran Mehta,4.1,Automation Testing,Microservices,Testing,Pune,Healthcare,On Notice,10,Available,2026-10-20,Power BI Certification,M.Tech,Onsite,Banking,2.3,2.7,3.7
+EMP0086,Isha Mishra,4.6,Java,Python,Backend,Pune,Healthcare,Unallocated,23,Available,2026-10-14,AWS Certified,MCA,Onsite,Manufacturing,2.1,4.0,3.8
+EMP0087,Ravi Pillai,1.6,Node.js,AWS,Backend,Hyderabad,Banking,Allocated,10,Claims Platform,2026-10-30,None,MCA,Onsite,Telecom,1.1,3.4,4.8
+EMP0088,Vikram Patel,9.0,DevOps,REST APIs,Cloud,Bangalore,Telecom,Allocated,1,CRM Upgrade,2026-09-06,Power BI Certification,B.Sc,Hybrid,Retail,3.6,4.2,4.8
+EMP0089,Nisha Pillai,1.9,Data Engineering,TypeScript,Data,Delhi,Technology,Allocated,2,Cloud Transformation,2026-08-17,Azure Certified,MCA,Onsite,Retail,0.7,3.3,4.9
+EMP0090,Ravi Reddy,2.6,Data Engineering,Postman,Data,Kolkata,Banking,On Notice,4,Available,2026-10-04,AWS Certified,M.Tech,Onsite,Insurance,1.8,2.9,3.0
+EMP0091,Divya Mehta,8.4,Cypress,Azure,Testing,Chennai,Technology,Unallocated,93,Available,2026-09-27,Java Certification,B.Sc,Hybrid,Retail,7.8,4.5,4.8
+EMP0092,Siddharth Chopra,8.0,JavaScript,Kubernetes,Frontend,Kolkata,Healthcare,Allocated,14,CRM Upgrade,2026-08-21,Java Certification,B.Sc,Hybrid,Technology,4.0,4.1,4.7
+EMP0093,Nisha Patel,8.3,Selenium,Spark,Testing,Hyderabad,Retail,Allocated,3,API Modernization,2026-10-05,GCP Certified,MCA,Hybrid,Insurance,7.0,4.7,4.8
+EMP0094,Ravi Nair,4.9,AWS,Docker,Cloud,Bangalore,Retail,Unallocated,98,Available,2026-08-13,ISTQB,B.E.,Hybrid,Banking,2.6,4.6,4.2
+EMP0095,Aarav Reddy,5.4,TypeScript,Docker,Frontend,Kolkata,Insurance,Unallocated,20,Available,2026-10-10,Scrum Master,B.Tech,Remote,Insurance,2.9,2.6,3.5
+EMP0096,Isha Pillai,1.2,Performance Testing,Spring Boot,Testing,Delhi,Telecom,Allocated,15,Claims Platform,2026-08-19,Power BI Certification,MCA,Hybrid,Telecom,0.7,3.9,3.0
+EMP0097,Neha Pillai,11.2,Go,Spark,Backend,Mumbai,Telecom,Unallocated,134,Available,2026-08-03,Scrum Master,MCA,Hybrid,Manufacturing,6.5,3.4,4.4
+EMP0098,Priya Chopra,4.3,SQL,Azure,Data,Delhi,Technology,Allocated,20,Cloud Transformation,2026-08-18,AWS Certified,M.Tech,Onsite,Retail,3.6,2.9,4.4
+EMP0099,Siddharth Sharma,7.4,DevOps,Kubernetes,Cloud,Hyderabad,Banking,Allocated,2,Claims Platform,2026-08-06,ISTQB,M.Tech,Onsite,Healthcare,7.0,3.9,3.1
+EMP0100,Vikram Reddy,4.4,JavaScript,Microservices,Frontend,Kolkata,Retail,Allocated,20,CRM Upgrade,2026-09-21,None,MCA,Remote,Insurance,2.8,3.7,4.8
+EMP0101,Ananya Mishra,9.3,API Testing,Postman,Testing,Hyderabad,Telecom,Allocated,2,Data Lake Migration,2026-09-11,Azure Certified,B.Tech,Remote,Manufacturing,4.9,3.6,4.3
+EMP0102,Isha Joshi,4.4,TypeScript,Kubernetes,Frontend,Delhi,Technology,Unallocated,90,Available,2026-08-08,Azure Certified,MCA,Remote,Telecom,3.7,4.2,4.9
+EMP0103,Ravi Iyer,8.0,Vue,Spark,Frontend,Delhi,Retail,Allocated,4,Cloud Transformation,2026-09-19,AWS Certified,B.Sc,Hybrid,Manufacturing,5.0,3.4,3.6
+EMP0104,Anil Iyer,2.0,Go,Microservices,Backend,Bangalore,Manufacturing,Unallocated,80,Available,2026-08-24,None,B.Sc,Remote,Telecom,0.8,4.4,4.3
+EMP0105,Rahul Patel,3.6,Vue,SQL,Frontend,Kolkata,Banking,Allocated,15,API Modernization,2026-08-23,None,B.Tech,Onsite,Technology,3.4,4.2,4.3
+EMP0106,Meera Chopra,3.7,Automation Testing,REST APIs,Testing,Mumbai,Insurance,Unallocated,40,Available,2026-08-16,Java Certification,B.E.,Hybrid,Technology,2.4,3.4,3.9
+EMP0107,Nisha Joshi,1.9,Kubernetes,DAX,Cloud,Delhi,Healthcare,Allocated,2,CRM Upgrade,2026-09-22,Azure Certified,B.E.,Remote,Manufacturing,0.7,3.7,3.8
+EMP0108,Ananya Pillai,7.5,Vue,Postman,Frontend,Bangalore,Technology,Unallocated,33,Available,2026-08-16,GCP Certified,M.Tech,Hybrid,Insurance,4.1,4.3,3.4
+EMP0109,Kiran Kulkarni,9.8,API Testing,Kubernetes,Testing,Mumbai,Telecom,Unallocated,70,Available,2026-08-12,GCP Certified,B.Sc,Onsite,Insurance,4.4,4.1,4.8
+EMP0110,Sneha Kulkarni,1.0,Python,Spark,Data,Mumbai,Retail,Allocated,2,Claims Platform,2026-10-13,Scrum Master,B.Sc,Onsite,Banking,0.6,4.1,3.2
+EMP0111,Nisha Mehta,3.2,Data Engineering,Microservices,Data,Delhi,Banking,Allocated,12,Customer Portal,2026-09-26,Scrum Master,MCA,Remote,Insurance,1.8,2.9,4.7
+EMP0112,Rohan Pillai,11.2,Spark,Microservices,Data,Chennai,Insurance,Unallocated,94,Available,2026-09-29,Azure Certified,M.Tech,Remote,Insurance,4.9,2.6,4.9
+EMP0113,Vikram Khan,3.2,Performance Testing,Azure,Testing,Delhi,Retail,Allocated,5,Claims Platform,2026-08-21,None,B.Sc,Remote,Healthcare,2.8,3.7,2.7
+EMP0114,Sneha Sharma,5.5,Kubernetes,Kubernetes,Cloud,Pune,Telecom,Unallocated,90,Available,2026-10-23,None,M.Tech,Onsite,Banking,4.7,3.6,4.7
+EMP0115,Pooja Pillai,4.5,Data Engineering,Kubernetes,Data,Bangalore,Healthcare,Unallocated,49,Available,2026-10-04,None,B.Sc,Remote,Technology,4.2,4.2,2.8
+EMP0116,Pooja Chopra,4.6,Node.js,SQL,Backend,Hyderabad,Telecom,On Notice,17,Available,2026-10-05,Scrum Master,B.Sc,Hybrid,Banking,1.7,4.3,4.5
+EMP0117,Vikram Khan,2.1,Performance Testing,Azure,Testing,Chennai,Insurance,Allocated,4,CRM Upgrade,2026-10-18,Power BI Certification,B.Sc,Remote,Telecom,1.8,3.8,4.3
+EMP0118,Ananya Mishra,9.5,Data Engineering,Kubernetes,Data,Kolkata,Manufacturing,Unallocated,28,Available,2026-10-28,AWS Certified,B.Sc,Remote,Retail,8.8,4.5,4.4
+EMP0119,Rohan Kulkarni,8.4,Cypress,DAX,Testing,Mumbai,Technology,Allocated,5,CRM Upgrade,2026-08-19,Java Certification,B.Tech,Onsite,Manufacturing,3.5,2.5,3.3
+EMP0120,Sneha Singh,8.1,TypeScript,SQL,Frontend,Mumbai,Insurance,Unallocated,120,Available,2026-10-11,ISTQB,MCA,Onsite,Healthcare,4.4,2.9,4.8
+EMP0121,Anil Mishra,4.4,Python,React,Data,Hyderabad,Insurance,Allocated,20,Data Lake Migration,2026-10-11,Power BI Certification,B.E.,Remote,Technology,2.3,3.0,4.3
+EMP0122,Nisha Patel,4.3,Data Engineering,Azure,Data,Delhi,Telecom,On Notice,8,Available,2026-09-18,Scrum Master,M.Tech,Hybrid,Retail,1.6,4.9,2.7
+EMP0123,Anil Khan,8.7,GCP,Python,Cloud,Delhi,Retail,Unallocated,137,Available,2026-08-18,Azure Certified,B.Sc,Onsite,Telecom,4.3,2.6,4.8
+EMP0124,Priya Kulkarni,1.1,Angular,Spark,Frontend,Hyderabad,Banking,Unallocated,120,Available,2026-10-10,GCP Certified,MCA,Onsite,Healthcare,0.7,3.0,4.9
+EMP0125,Arjun Iyer,7.6,Spark,Python,Data,Delhi,Manufacturing,Allocated,2,Core Banking Modernization,2026-08-23,Scrum Master,B.E.,Hybrid,Technology,4.5,3.7,4.8
+EMP0126,Vikram Reddy,0.6,SQL,React,Data,Delhi,Telecom,Allocated,3,API Modernization,2026-08-18,None,M.Tech,Hybrid,Technology,0.3,2.9,3.6
+EMP0127,Arjun Kulkarni,0.7,Power BI,Spark,Data,Hyderabad,Insurance,Unallocated,75,Available,2026-10-18,Scrum Master,MCA,Onsite,Retail,0.3,4.2,3.0
+EMP0128,Aditya Iyer,4.1,TypeScript,React,Frontend,Kolkata,Retail,Unallocated,66,Available,2026-09-12,Power BI Certification,B.Sc,Onsite,Telecom,1.5,4.1,4.2
+EMP0129,Nisha Singh,5.6,Java,Microservices,Backend,Delhi,Retail,Unallocated,128,Available,2026-09-17,Java Certification,B.E.,Hybrid,Healthcare,2.5,4.4,4.0
+EMP0130,Divya Kulkarni,10.5,Kubernetes,Spark,Cloud,Mumbai,Technology,Allocated,6,Digital Payments,2026-10-07,None,B.Sc,Onsite,Retail,4.2,3.9,2.7
+EMP0131,Vikram Verma,2.7,Automation Testing,Python,Testing,Pune,Banking,Allocated,5,Claims Platform,2026-10-14,None,B.Tech,Onsite,Healthcare,2.3,3.6,3.8
+EMP0132,Aarav Joshi,1.1,Kubernetes,Kubernetes,Cloud,Kolkata,Banking,Allocated,9,Claims Platform,2026-10-14,Azure Certified,B.Tech,Remote,Retail,0.8,3.9,2.7
+EMP0133,Ananya Nair,0.8,Node.js,TypeScript,Backend,Pune,Technology,Unallocated,34,Available,2026-09-18,Scrum Master,B.Tech,Onsite,Manufacturing,0.7,2.8,4.7
+EMP0134,Divya Verma,11.4,Python,Spring Boot,Backend,Kolkata,Banking,Unallocated,32,Available,2026-09-08,None,B.Sc,Remote,Telecom,6.6,3.1,3.7
+EMP0135,Sneha Chopra,2.6,JavaScript,AWS,Frontend,Pune,Telecom,Allocated,3,Core Banking Modernization,2026-08-31,Java Certification,B.Tech,Hybrid,Telecom,1.0,4.0,4.3
+EMP0136,Neha Iyer,8.6,Python,Spark,Backend,Kolkata,Technology,Unallocated,59,Available,2026-08-08,GCP Certified,B.Sc,Remote,Insurance,7.2,4.3,3.3
+EMP0137,Divya Joshi,3.1,API Testing,Kubernetes,Testing,Chennai,Banking,Allocated,16,Customer Portal,2026-10-20,Scrum Master,B.Sc,Remote,Banking,2.9,4.9,4.2
+EMP0138,Aditya Gupta,8.2,API Testing,Spark,Testing,Mumbai,Healthcare,Unallocated,76,Available,2026-08-31,Java Certification,M.Tech,Onsite,Insurance,6.8,4.8,3.9
+EMP0139,Rahul Nair,6.3,Kubernetes,AWS,Cloud,Bangalore,Healthcare,Unallocated,65,Available,2026-09-17,Azure Certified,B.Sc,Onsite,Technology,2.9,3.2,4.2
+EMP0140,Shruti Iyer,10.1,Selenium,Postman,Testing,Chennai,Retail,Unallocated,55,Available,2026-08-02,Java Certification,B.E.,Onsite,Banking,8.1,4.4,4.8
+EMP0141,Nisha Joshi,4.9,Cypress,React,Testing,Mumbai,Manufacturing,Unallocated,82,Available,2026-09-15,Power BI Certification,M.Tech,Remote,Telecom,4.3,3.7,4.5
+EMP0142,Sneha Mishra,10.6,GCP,Postman,Cloud,Hyderabad,Manufacturing,Unallocated,105,Available,2026-08-19,AWS Certified,M.Tech,Onsite,Telecom,7.4,3.5,2.9
+EMP0143,Neha Kulkarni,4.7,Power BI,AWS,Data,Chennai,Retail,Allocated,15,API Modernization,2026-10-22,None,MCA,Hybrid,Manufacturing,3.9,2.9,4.3
+EMP0144,Sneha Pillai,10.6,Azure,Spring Boot,Cloud,Kolkata,Technology,Allocated,20,Digital Payments,2026-10-25,AWS Certified,B.Tech,Remote,Insurance,9.1,3.1,4.3
+EMP0145,Shruti Sharma,6.1,Python,Spring Boot,Backend,Mumbai,Telecom,Unallocated,123,Available,2026-09-22,AWS Certified,B.Tech,Onsite,Manufacturing,3.1,4.9,2.5
+EMP0146,Divya Iyer,1.7,Azure,Azure,Cloud,Mumbai,Retail,Unallocated,38,Available,2026-09-15,Power BI Certification,MCA,Hybrid,Retail,1.6,3.6,3.1
+EMP0147,Sneha Patel,8.0,JavaScript,TypeScript,Frontend,Pune,Healthcare,Allocated,20,API Modernization,2026-08-08,AWS Certified,B.E.,Hybrid,Healthcare,6.9,4.1,3.3
+EMP0148,Anil Sharma,10.6,Go,Microservices,Backend,Delhi,Retail,Unallocated,121,Available,2026-10-09,AWS Certified,B.E.,Remote,Banking,9.8,4.0,4.4
+EMP0149,Aditya Kulkarni,3.8,AWS,Python,Cloud,Chennai,Healthcare,Allocated,18,Customer Portal,2026-10-28,Azure Certified,B.Sc,Onsite,Retail,1.5,3.6,4.6
+EMP0150,Vikram Sharma,9.0,Python,AWS,Data,Chennai,Technology,On Notice,12,Available,2026-09-27,None,B.E.,Remote,Telecom,8.2,3.6,4.2
+EMP0151,Ravi Patel,9.0,AWS,Kubernetes,Cloud,Hyderabad,Healthcare,Unallocated,63,Available,2026-10-21,GCP Certified,MCA,Remote,Retail,3.7,2.5,3.3
+EMP0152,Siddharth Pillai,1.6,Spark,Python,Data,Mumbai,Healthcare,Unallocated,110,Available,2026-08-14,AWS Certified,B.Tech,Remote,Telecom,0.6,4.0,3.3
+EMP0153,Neha Khan,3.7,AWS,Docker,Cloud,Mumbai,Telecom,Unallocated,21,Available,2026-08-22,Scrum Master,B.E.,Hybrid,Retail,2.0,3.7,2.7
+EMP0154,Pooja Reddy,5.1,GCP,Docker,Cloud,Delhi,Manufacturing,Allocated,2,API Modernization,2026-10-16,Java Certification,MCA,Hybrid,Insurance,2.7,4.9,3.3
+EMP0155,Ananya Verma,9.3,Performance Testing,Postman,Testing,Kolkata,Manufacturing,Unallocated,85,Available,2026-10-16,GCP Certified,M.Tech,Remote,Telecom,8.5,3.0,3.3
+EMP0156,Arjun Chopra,3.7,GCP,Docker,Cloud,Chennai,Healthcare,Allocated,15,Data Lake Migration,2026-09-20,ISTQB,B.Tech,Onsite,Insurance,2.6,3.9,4.2
+EMP0157,Siddharth Chopra,11.0,Selenium,Kubernetes,Testing,Kolkata,Manufacturing,Allocated,6,Digital Payments,2026-09-22,None,B.E.,Onsite,Retail,5.4,4.1,4.3
+EMP0158,Aditya Pillai,5.4,AWS,Python,Cloud,Kolkata,Manufacturing,Allocated,18,CRM Upgrade,2026-10-09,AWS Certified,M.Tech,Onsite,Technology,3.6,4.1,2.7
+EMP0159,Aditya Chopra,2.3,JavaScript,REST APIs,Frontend,Kolkata,Healthcare,Allocated,18,Digital Payments,2026-08-02,Azure Certified,M.Tech,Hybrid,Telecom,1.8,3.9,4.2
+EMP0160,Rohan Gupta,4.6,TypeScript,REST APIs,Frontend,Bangalore,Healthcare,Allocated,18,Digital Payments,2026-09-07,Scrum Master,B.Tech,Hybrid,Technology,4.2,2.9,3.3
+EMP0161,Siddharth Singh,6.2,Azure,DAX,Cloud,Pune,Retail,Unallocated,24,Available,2026-08-09,Power BI Certification,B.Tech,Onsite,Banking,2.3,3.4,2.8
+EMP0162,Neha Joshi,6.2,Angular,React,Frontend,Hyderabad,Technology,Allocated,10,CRM Upgrade,2026-10-20,GCP Certified,B.E.,Onsite,Manufacturing,3.8,2.6,4.0
+EMP0163,Rahul Reddy,7.0,TypeScript,Spark,Frontend,Delhi,Technology,Unallocated,54,Available,2026-08-09,Azure Certified,B.Sc,Hybrid,Retail,3.8,3.6,3.2
+EMP0164,Isha Joshi,11.1,Kubernetes,Azure,Cloud,Bangalore,Retail,Unallocated,99,Available,2026-09-15,None,B.Sc,Hybrid,Technology,8.4,4.5,4.8
+EMP0165,Nisha Patel,7.9,Selenium,SQL,Testing,Chennai,Manufacturing,Unallocated,61,Available,2026-08-19,Scrum Master,MCA,Onsite,Insurance,5.5,3.6,3.7
+EMP0166,Meera Nair,6.6,Cypress,Postman,Testing,Pune,Telecom,Allocated,4,Core Banking Modernization,2026-09-15,AWS Certified,MCA,Hybrid,Insurance,5.5,4.9,3.8
+EMP0167,Shruti Gupta,8.0,DevOps,Microservices,Cloud,Mumbai,Banking,Unallocated,113,Available,2026-08-29,Power BI Certification,B.Tech,Remote,Insurance,5.4,2.9,3.6
+EMP0168,Neha Verma,6.1,Kubernetes,REST APIs,Cloud,Mumbai,Technology,Allocated,8,Core Banking Modernization,2026-09-26,Java Certification,MCA,Hybrid,Manufacturing,5.2,4.4,3.2
+EMP0169,Siddharth Verma,3.4,Node.js,Microservices,Backend,Kolkata,Technology,Allocated,2,Claims Platform,2026-08-27,ISTQB,B.Sc,Onsite,Healthcare,1.5,2.8,3.0
+EMP0170,Neha Gupta,6.8,React,REST APIs,Frontend,Delhi,Retail,Allocated,19,Data Lake Migration,2026-10-13,Power BI Certification,B.Sc,Onsite,Technology,2.8,4.9,4.5
+EMP0171,Divya Gupta,10.0,C#,DAX,Backend,Chennai,Technology,Unallocated,33,Available,2026-09-01,Scrum Master,MCA,Hybrid,Telecom,7.3,4.1,3.4
+EMP0172,Siddharth Mehta,4.9,Java,REST APIs,Backend,Mumbai,Banking,Allocated,11,Digital Payments,2026-09-28,ISTQB,B.Tech,Onsite,Healthcare,2.4,3.6,3.0
+EMP0173,Arjun Verma,9.6,Spark,React,Data,Kolkata,Retail,Unallocated,33,Available,2026-10-27,AWS Certified,B.Tech,Hybrid,Manufacturing,7.9,3.6,2.8
+EMP0174,Rahul Singh,5.5,TypeScript,SQL,Frontend,Delhi,Retail,On Notice,13,Available,2026-08-21,Power BI Certification,B.Tech,Onsite,Retail,2.8,3.4,4.8
+EMP0175,Ananya Kulkarni,4.9,React,Microservices,Frontend,Delhi,Banking,Unallocated,59,Available,2026-08-01,Java Certification,MCA,Hybrid,Insurance,3.5,3.8,3.6
+EMP0176,Kiran Mehta,9.5,C#,Microservices,Backend,Hyderabad,Healthcare,On Notice,13,Available,2026-08-12,Azure Certified,B.Tech,Remote,Retail,8.3,2.8,4.4
+EMP0177,Meera Mehta,1.3,Angular,REST APIs,Frontend,Delhi,Insurance,Allocated,19,Customer Portal,2026-09-22,None,B.E.,Hybrid,Banking,0.6,2.8,4.3
+EMP0178,Ravi Iyer,4.0,Data Engineering,Python,Data,Mumbai,Telecom,Unallocated,70,Available,2026-10-17,Power BI Certification,B.Tech,Onsite,Retail,1.9,4.0,3.0
+EMP0179,Shruti Joshi,7.6,GCP,Microservices,Cloud,Hyderabad,Healthcare,Allocated,7,Digital Payments,2026-10-07,AWS Certified,M.Tech,Remote,Insurance,4.4,4.6,3.6
+EMP0180,Aarav Mishra,8.9,Cypress,Microservices,Testing,Bangalore,Retail,On Notice,2,Available,2026-08-28,AWS Certified,B.Tech,Remote,Telecom,4.6,4.3,4.4
+EMP0181,Kiran Reddy,1.4,DevOps,Microservices,Cloud,Chennai,Banking,Allocated,19,Claims Platform,2026-08-20,ISTQB,MCA,Onsite,Manufacturing,1.1,4.1,4.1
+EMP0182,Divya Patel,8.5,Data Engineering,TypeScript,Data,Bangalore,Healthcare,Allocated,1,Core Banking Modernization,2026-09-09,GCP Certified,B.Tech,Hybrid,Manufacturing,3.7,2.5,3.7
+EMP0183,Meera Nair,6.2,Python,SQL,Data,Delhi,Technology,Allocated,8,Data Lake Migration,2026-08-16,AWS Certified,M.Tech,Remote,Retail,4.1,3.2,4.9
+EMP0184,Arjun Gupta,5.5,Node.js,REST APIs,Backend,Hyderabad,Retail,Unallocated,127,Available,2026-08-14,Azure Certified,B.E.,Onsite,Telecom,1.9,4.6,2.5
+EMP0185,Sneha Pillai,4.5,Node.js,Spark,Backend,Delhi,Manufacturing,On Notice,5,Available,2026-10-23,Scrum Master,B.E.,Remote,Insurance,2.7,4.3,3.2
+EMP0186,Meera Iyer,4.6,Go,Spark,Backend,Mumbai,Banking,Allocated,1,CRM Upgrade,2026-08-09,None,M.Tech,Remote,Retail,1.8,3.6,3.4
+EMP0187,Siddharth Nair,9.1,Python,Azure,Data,Pune,Technology,Allocated,7,Claims Platform,2026-10-09,Java Certification,B.E.,Hybrid,Healthcare,3.3,3.9,4.1
+EMP0188,Priya Iyer,0.5,C#,Python,Backend,Hyderabad,Healthcare,Allocated,9,API Modernization,2026-08-08,GCP Certified,M.Tech,Hybrid,Banking,0.5,4.7,3.8
+EMP0189,Rohan Gupta,11.2,Data Engineering,AWS,Data,Kolkata,Healthcare,Unallocated,24,Available,2026-08-10,AWS Certified,MCA,Onsite,Insurance,5.5,3.2,3.3
+EMP0190,Rahul Gupta,4.0,GCP,Spark,Cloud,Kolkata,Telecom,Unallocated,19,Available,2026-08-14,GCP Certified,B.Tech,Hybrid,Healthcare,2.5,3.5,3.8
+EMP0191,Ravi Gupta,3.9,TypeScript,Spark,Frontend,Delhi,Retail,Unallocated,30,Available,2026-10-30,AWS Certified,B.E.,Remote,Insurance,1.6,3.1,3.4
+EMP0192,Aarav Joshi,7.9,Selenium,Postman,Testing,Pune,Telecom,Unallocated,44,Available,2026-10-10,Java Certification,B.Tech,Remote,Banking,6.6,2.8,2.5
+EMP0193,Arjun Mishra,2.7,Angular,Kubernetes,Frontend,Kolkata,Banking,Unallocated,21,Available,2026-08-03,Azure Certified,B.E.,Onsite,Healthcare,2.3,2.7,4.6
+EMP0194,Arjun Joshi,1.0,SQL,Postman,Data,Delhi,Healthcare,Allocated,5,API Modernization,2026-08-04,Scrum Master,MCA,Hybrid,Retail,0.5,3.0,3.2
+EMP0195,Nisha Mehta,7.3,React,TypeScript,Frontend,Mumbai,Healthcare,Allocated,20,Core Banking Modernization,2026-08-12,Power BI Certification,MCA,Hybrid,Healthcare,3.4,4.7,3.8
+EMP0196,Shruti Pillai,11.4,Selenium,Spark,Testing,Pune,Retail,Allocated,11,Cloud Transformation,2026-09-19,Power BI Certification,B.E.,Hybrid,Retail,8.1,2.6,4.5
+EMP0197,Arjun Iyer,9.4,SQL,SQL,Data,Bangalore,Insurance,Allocated,11,Claims Platform,2026-09-04,AWS Certified,B.E.,Onsite,Technology,8.8,3.5,4.8
+EMP0198,Arjun Sharma,3.1,Angular,DAX,Frontend,Delhi,Retail,Unallocated,91,Available,2026-10-12,GCP Certified,B.Sc,Hybrid,Technology,2.9,4.7,3.7
+EMP0199,Isha Iyer,5.9,Power BI,Spring Boot,Data,Mumbai,Healthcare,Unallocated,59,Available,2026-08-01,ISTQB,B.Sc,Hybrid,Technology,2.5,4.3,4.8
+EMP0200,Priya Verma,0.7,SQL,Python,Data,Kolkata,Retail,Allocated,4,Digital Payments,2026-09-17,Scrum Master,B.Sc,Hybrid,Retail,0.4,2.8,2.9
+EMP0201,Divya Kulkarni,7.6,DevOps,Azure,Cloud,Kolkata,Insurance,Unallocated,91,Available,2026-09-18,Power BI Certification,M.Tech,Hybrid,Insurance,6.0,4.9,4.9
+EMP0202,Divya Kulkarni,0.9,Kubernetes,Azure,Cloud,Bangalore,Healthcare,Allocated,19,Customer Portal,2026-09-12,Azure Certified,B.E.,Remote,Retail,0.4,4.7,2.7
+EMP0203,Pooja Reddy,0.6,Data Engineering,Spark,Data,Bangalore,Manufacturing,Unallocated,17,Available,2026-08-01,AWS Certified,MCA,Remote,Manufacturing,0.4,2.9,3.5
+EMP0204,Arjun Kulkarni,6.5,GCP,Spark,Cloud,Delhi,Insurance,Unallocated,122,Available,2026-08-21,None,B.Tech,Hybrid,Retail,2.4,3.2,2.8
+EMP0205,Neha Khan,10.3,Power BI,Microservices,Data,Chennai,Telecom,Unallocated,19,Available,2026-10-18,None,B.Tech,Remote,Manufacturing,4.6,4.7,2.9
+EMP0206,Anil Kulkarni,2.8,C#,Kubernetes,Backend,Chennai,Insurance,Unallocated,138,Available,2026-08-13,AWS Certified,MCA,Onsite,Telecom,2.4,2.9,3.4
+EMP0207,Shruti Iyer,3.7,AWS,Microservices,Cloud,Bangalore,Insurance,Allocated,19,Customer Portal,2026-10-21,Power BI Certification,B.Tech,Remote,Technology,1.6,4.5,3.7
+EMP0208,Aditya Nair,7.6,SQL,SQL,Data,Pune,Banking,Unallocated,94,Available,2026-09-03,None,MCA,Remote,Insurance,6.5,3.9,2.9
+EMP0209,Arjun Iyer,7.8,Java,Python,Backend,Bangalore,Technology,Allocated,13,CRM Upgrade,2026-10-06,Scrum Master,B.Sc,Onsite,Technology,7.1,3.9,3.1
+EMP0210,Rohan Mishra,4.8,SQL,Python,Data,Kolkata,Telecom,Allocated,1,Customer Portal,2026-08-16,None,B.E.,Hybrid,Insurance,4.0,2.8,3.6
+EMP0211,Anil Nair,11.5,Azure,DAX,Cloud,Kolkata,Banking,Allocated,19,Digital Payments,2026-09-19,Scrum Master,B.Sc,Remote,Technology,5.9,3.6,4.7
+EMP0212,Kiran Gupta,6.2,Automation Testing,Azure,Testing,Mumbai,Telecom,Unallocated,106,Available,2026-08-13,Azure Certified,B.Sc,Hybrid,Technology,3.2,3.8,3.4
+EMP0213,Shruti Sharma,4.7,GCP,SQL,Cloud,Chennai,Healthcare,Allocated,19,Customer Portal,2026-10-19,Scrum Master,B.Tech,Remote,Retail,3.6,2.6,3.7
+EMP0214,Nisha Reddy,0.7,Spark,Postman,Data,Pune,Technology,Allocated,9,Digital Payments,2026-08-30,GCP Certified,M.Tech,Onsite,Healthcare,0.6,3.3,4.3
+EMP0215,Shruti Chopra,2.6,Selenium,Python,Testing,Kolkata,Retail,Unallocated,104,Available,2026-08-08,GCP Certified,B.Tech,Remote,Manufacturing,1.7,2.8,4.6
+EMP0216,Sneha Iyer,2.4,Selenium,Spring Boot,Testing,Pune,Banking,Allocated,6,Cloud Transformation,2026-10-30,Java Certification,M.Tech,Remote,Technology,1.5,3.5,4.8
+EMP0217,Shruti Mishra,4.6,Python,Python,Backend,Chennai,Retail,Allocated,5,Customer Portal,2026-09-03,Azure Certified,M.Tech,Hybrid,Healthcare,1.7,4.6,4.4
+EMP0218,Ananya Pillai,7.6,Angular,Spring Boot,Frontend,Kolkata,Technology,Allocated,8,Core Banking Modernization,2026-09-30,GCP Certified,B.E.,Onsite,Technology,2.7,3.1,4.5
+EMP0219,Siddharth Reddy,5.2,Spark,Docker,Data,Pune,Retail,Unallocated,89,Available,2026-10-26,Scrum Master,B.Sc,Hybrid,Banking,3.4,4.2,4.6
+EMP0220,Priya Mehta,7.6,Python,Microservices,Data,Chennai,Retail,Allocated,9,Cloud Transformation,2026-09-05,Power BI Certification,M.Tech,Hybrid,Insurance,5.0,3.1,2.6
+EMP0221,Shruti Reddy,7.8,Performance Testing,Kubernetes,Testing,Pune,Healthcare,Allocated,0,CRM Upgrade,2026-08-05,Java Certification,M.Tech,Onsite,Manufacturing,3.8,3.8,4.5
+EMP0222,Nisha Patel,3.8,Python,React,Data,Hyderabad,Manufacturing,Unallocated,46,Available,2026-09-03,GCP Certified,M.Tech,Onsite,Banking,1.8,3.1,4.7
+EMP0223,Priya Mehta,4.6,GCP,Spring Boot,Cloud,Kolkata,Manufacturing,Allocated,14,Digital Payments,2026-09-30,Java Certification,B.Sc,Hybrid,Technology,3.5,3.8,3.5
+EMP0224,Kiran Nair,11.4,Angular,Postman,Frontend,Delhi,Insurance,Unallocated,117,Available,2026-08-11,None,M.Tech,Onsite,Insurance,6.1,2.6,3.6
+EMP0225,Kiran Mishra,6.8,Angular,TypeScript,Frontend,Delhi,Healthcare,Unallocated,22,Available,2026-09-21,Scrum Master,MCA,Remote,Banking,2.5,3.0,3.4
+EMP0226,Aarav Kulkarni,8.8,C#,DAX,Backend,Hyderabad,Insurance,Allocated,0,Cloud Transformation,2026-09-09,GCP Certified,B.Tech,Remote,Telecom,6.2,2.9,4.6
+EMP0227,Vikram Joshi,5.5,Spark,AWS,Data,Hyderabad,Retail,Allocated,16,API Modernization,2026-09-15,Java Certification,B.E.,Remote,Banking,2.7,4.3,2.8
+EMP0228,Aditya Khan,6.1,Go,AWS,Backend,Chennai,Technology,Unallocated,9,Available,2026-10-08,AWS Certified,B.Sc,Hybrid,Manufacturing,2.5,4.6,2.6
+EMP0229,Shruti Singh,5.4,Node.js,SQL,Backend,Hyderabad,Manufacturing,Unallocated,64,Available,2026-10-27,AWS Certified,M.Tech,Remote,Manufacturing,2.2,3.8,4.1
+EMP0230,Nisha Patel,9.6,TypeScript,Spark,Frontend,Bangalore,Healthcare,Unallocated,30,Available,2026-08-26,Java Certification,M.Tech,Onsite,Insurance,5.4,3.5,2.9
+EMP0231,Vikram Iyer,10.5,Performance Testing,Spring Boot,Testing,Bangalore,Manufacturing,Allocated,15,Digital Payments,2026-08-15,None,B.E.,Hybrid,Technology,6.9,4.3,2.8
+EMP0232,Siddharth Sharma,5.5,Power BI,Microservices,Data,Kolkata,Insurance,On Notice,8,Available,2026-08-06,Power BI Certification,M.Tech,Onsite,Retail,3.3,2.8,4.6
+EMP0233,Vikram Nair,9.9,Java,React,Backend,Mumbai,Retail,Allocated,5,Digital Payments,2026-09-17,ISTQB,B.E.,Hybrid,Healthcare,5.8,3.6,4.6
+EMP0234,Kiran Singh,7.6,DevOps,DAX,Cloud,Bangalore,Technology,Allocated,3,Customer Portal,2026-08-14,Scrum Master,B.Sc,Remote,Technology,5.3,3.6,4.0
+EMP0235,Shruti Khan,0.8,Python,React,Data,Bangalore,Healthcare,Allocated,4,API Modernization,2026-08-06,Azure Certified,M.Tech,Onsite,Retail,0.3,4.7,3.8
+EMP0236,Rohan Pillai,3.0,Automation Testing,DAX,Testing,Delhi,Telecom,On Notice,10,Available,2026-08-13,Scrum Master,B.E.,Remote,Retail,2.2,4.1,2.9
+EMP0237,Rohan Verma,1.1,Automation Testing,React,Testing,Kolkata,Healthcare,Allocated,5,Customer Portal,2026-08-10,None,M.Tech,Hybrid,Retail,1.0,2.6,3.1
+EMP0238,Arjun Mehta,9.5,DevOps,Microservices,Cloud,Kolkata,Healthcare,Unallocated,113,Available,2026-09-27,ISTQB,B.Tech,Remote,Manufacturing,7.0,2.8,3.5
+EMP0239,Rohan Pillai,0.5,Automation Testing,Docker,Testing,Delhi,Manufacturing,Unallocated,77,Available,2026-09-28,ISTQB,M.Tech,Hybrid,Technology,0.2,3.6,3.9
+EMP0240,Priya Patel,5.7,Automation Testing,Spark,Testing,Delhi,Insurance,Allocated,14,Core Banking Modernization,2026-09-13,ISTQB,M.Tech,Onsite,Telecom,3.3,2.8,4.7
+EMP0241,Priya Reddy,9.5,Azure,Azure,Cloud,Hyderabad,Insurance,Allocated,13,Digital Payments,2026-09-20,Java Certification,MCA,Hybrid,Manufacturing,5.3,4.4,2.6
+EMP0242,Rohan Gupta,9.0,Selenium,React,Testing,Bangalore,Telecom,Allocated,18,Core Banking Modernization,2026-10-10,Scrum Master,B.Sc,Remote,Telecom,7.4,4.8,4.2
+EMP0243,Vikram Pillai,1.6,Angular,TypeScript,Frontend,Pune,Telecom,Allocated,19,Claims Platform,2026-09-05,Scrum Master,M.Tech,Remote,Healthcare,1.3,2.8,4.0
+EMP0244,Neha Kulkarni,9.8,API Testing,Docker,Testing,Hyderabad,Insurance,Allocated,10,Data Lake Migration,2026-10-27,ISTQB,B.E.,Onsite,Manufacturing,9.2,2.9,3.9
+EMP0245,Arjun Kulkarni,8.9,SQL,DAX,Data,Pune,Manufacturing,Allocated,18,Data Lake Migration,2026-09-24,AWS Certified,B.Sc,Hybrid,Banking,5.1,2.6,2.6
+EMP0246,Sneha Singh,11.3,Power BI,Spark,Data,Chennai,Insurance,Allocated,4,Core Banking Modernization,2026-09-15,None,B.Tech,Onsite,Technology,8.5,3.9,3.1
+EMP0247,Sneha Khan,3.1,Performance Testing,TypeScript,Testing,Pune,Healthcare,Allocated,9,Cloud Transformation,2026-10-10,AWS Certified,B.Tech,Onsite,Retail,1.5,4.7,4.7
+EMP0248,Pooja Chopra,10.5,Azure,Azure,Cloud,Mumbai,Manufacturing,Allocated,20,Claims Platform,2026-08-25,Power BI Certification,MCA,Hybrid,Manufacturing,4.1,4.9,4.3
+EMP0249,Kiran Gupta,0.9,Node.js,Azure,Backend,Kolkata,Retail,Unallocated,67,Available,2026-08-01,ISTQB,MCA,Onsite,Insurance,0.3,4.8,4.0
+EMP0250,Ravi Chopra,5.9,API Testing,DAX,Testing,Chennai,Telecom,Allocated,11,Claims Platform,2026-08-24,Azure Certified,B.Sc,Hybrid,Healthcare,4.0,3.5,3.4
+EMP0251,Shruti Pillai,4.1,JavaScript,Postman,Frontend,Kolkata,Manufacturing,Unallocated,135,Available,2026-08-02,Azure Certified,M.Tech,Remote,Insurance,3.7,4.0,4.1
+EMP0252,Aditya Reddy,4.7,C#,Python,Backend,Delhi,Retail,Allocated,3,Core Banking Modernization,2026-10-06,ISTQB,B.Sc,Onsite,Healthcare,3.0,3.2,4.1
+EMP0253,Neha Sharma,1.4,Python,AWS,Data,Bangalore,Insurance,Unallocated,137,Available,2026-10-25,Java Certification,MCA,Hybrid,Insurance,0.9,4.3,4.9
+EMP0254,Vikram Sharma,8.7,AWS,Microservices,Cloud,Bangalore,Banking,Unallocated,117,Available,2026-08-23,Power BI Certification,B.Sc,Hybrid,Telecom,7.3,4.8,3.5
+EMP0255,Neha Sharma,5.3,DevOps,AWS,Cloud,Delhi,Telecom,Unallocated,30,Available,2026-08-09,AWS Certified,B.Tech,Remote,Telecom,2.2,4.5,3.3
+EMP0256,Aarav Mehta,8.9,C#,SQL,Backend,Mumbai,Insurance,Allocated,12,Customer Portal,2026-09-20,Power BI Certification,B.E.,Remote,Manufacturing,7.9,4.9,4.7
+EMP0257,Sneha Sharma,6.6,SQL,Azure,Data,Mumbai,Healthcare,Allocated,3,Digital Payments,2026-09-09,Java Certification,M.Tech,Hybrid,Healthcare,5.9,4.6,2.9
+EMP0258,Meera Kulkarni,7.3,Angular,Spark,Frontend,Mumbai,Technology,Unallocated,29,Available,2026-08-07,None,B.Sc,Hybrid,Retail,5.5,3.1,3.0
+EMP0259,Priya Reddy,11.0,Performance Testing,Azure,Testing,Bangalore,Insurance,Unallocated,60,Available,2026-09-10,None,MCA,Remote,Telecom,8.2,4.2,2.9
+EMP0260,Aarav Nair,9.4,API Testing,Docker,Testing,Kolkata,Insurance,On Notice,5,Available,2026-10-22,Scrum Master,M.Tech,Remote,Insurance,7.1,3.3,3.7
+EMP0261,Meera Kulkarni,9.0,GCP,Azure,Cloud,Bangalore,Technology,Allocated,3,Data Lake Migration,2026-08-18,Java Certification,M.Tech,Onsite,Manufacturing,3.6,2.7,2.5
+EMP0262,Rahul Khan,9.4,Selenium,Spring Boot,Testing,Mumbai,Retail,Allocated,18,API Modernization,2026-10-23,GCP Certified,M.Tech,Remote,Insurance,8.3,4.0,4.6
+EMP0263,Rohan Sharma,6.0,TypeScript,AWS,Frontend,Hyderabad,Technology,Unallocated,93,Available,2026-10-18,GCP Certified,B.Sc,Hybrid,Healthcare,2.7,3.9,3.9
+EMP0264,Divya Patel,10.8,TypeScript,Kubernetes,Frontend,Chennai,Insurance,Unallocated,124,Available,2026-08-06,Java Certification,B.Sc,Remote,Healthcare,6.8,3.6,2.6
+EMP0265,Anil Mishra,8.2,SQL,Python,Data,Mumbai,Insurance,Allocated,8,CRM Upgrade,2026-10-23,Scrum Master,M.Tech,Onsite,Manufacturing,7.3,2.7,3.1
+EMP0266,Shruti Chopra,5.0,Vue,React,Frontend,Mumbai,Banking,Allocated,11,Customer Portal,2026-09-26,GCP Certified,B.E.,Hybrid,Telecom,3.7,3.0,3.0
+EMP0267,Ananya Chopra,8.4,Python,REST APIs,Data,Delhi,Banking,Unallocated,58,Available,2026-10-01,None,MCA,Hybrid,Telecom,3.8,4.6,2.6
+EMP0268,Sneha Khan,6.8,Python,Azure,Backend,Hyderabad,Banking,Unallocated,131,Available,2026-08-22,Power BI Certification,B.E.,Onsite,Healthcare,4.8,3.9,2.5
+EMP0269,Shruti Gupta,2.9,SQL,Docker,Data,Kolkata,Healthcare,Allocated,15,Customer Portal,2026-10-14,GCP Certified,B.Sc,Onsite,Telecom,1.5,4.3,3.4
+EMP0270,Kiran Patel,7.0,Kubernetes,Spring Boot,Cloud,Hyderabad,Telecom,Unallocated,98,Available,2026-10-04,Scrum Master,B.E.,Onsite,Banking,3.2,4.8,4.0
+EMP0271,Isha Pillai,8.8,Automation Testing,Postman,Testing,Bangalore,Technology,Unallocated,33,Available,2026-10-26,Scrum Master,B.Sc,Remote,Retail,7.7,4.2,3.6
+EMP0272,Priya Joshi,4.4,DevOps,SQL,Cloud,Chennai,Healthcare,Allocated,18,Claims Platform,2026-08-11,Power BI Certification,B.Sc,Onsite,Healthcare,2.2,2.5,4.4
+EMP0273,Rahul Singh,6.2,Go,Spark,Backend,Chennai,Healthcare,Allocated,12,Cloud Transformation,2026-08-14,GCP Certified,MCA,Onsite,Telecom,3.1,4.6,3.6
+EMP0274,Ananya Pillai,3.5,Python,Spark,Data,Mumbai,Healthcare,Allocated,6,Customer Portal,2026-09-17,None,M.Tech,Remote,Telecom,1.9,4.3,4.3
+EMP0275,Priya Iyer,5.4,Python,Python,Backend,Pune,Technology,Allocated,5,Cloud Transformation,2026-10-10,AWS Certified,B.E.,Remote,Manufacturing,1.9,2.7,2.9
+EMP0276,Ravi Mishra,1.5,Performance Testing,Spring Boot,Testing,Delhi,Healthcare,Unallocated,94,Available,2026-09-21,Power BI Certification,B.Sc,Hybrid,Technology,1.3,4.1,3.6
+EMP0277,Rohan Singh,3.6,Vue,Docker,Frontend,Mumbai,Insurance,Unallocated,130,Available,2026-10-26,AWS Certified,M.Tech,Hybrid,Manufacturing,1.3,2.9,5.0
+EMP0278,Rohan Sharma,7.9,GCP,DAX,Cloud,Delhi,Banking,Unallocated,51,Available,2026-08-12,Power BI Certification,B.Sc,Onsite,Retail,4.4,4.5,3.1
+EMP0279,Meera Joshi,10.7,TypeScript,Python,Frontend,Bangalore,Telecom,Allocated,8,Digital Payments,2026-10-04,Power BI Certification,M.Tech,Hybrid,Technology,7.0,3.1,3.8
+EMP0280,Shruti Chopra,8.1,API Testing,Docker,Testing,Kolkata,Retail,On Notice,18,Available,2026-09-28,None,B.Sc,Hybrid,Healthcare,3.4,2.7,4.1
+EMP0281,Rohan Pillai,9.3,Angular,Spring Boot,Frontend,Delhi,Technology,Unallocated,90,Available,2026-09-03,Java Certification,M.Tech,Hybrid,Healthcare,7.0,4.6,2.7
+EMP0282,Meera Singh,4.0,TypeScript,AWS,Frontend,Hyderabad,Healthcare,Unallocated,68,Available,2026-08-26,Java Certification,B.E.,Remote,Insurance,2.0,4.6,4.6
+EMP0283,Shruti Mishra,9.1,Power BI,Spring Boot,Data,Kolkata,Technology,Unallocated,20,Available,2026-10-09,AWS Certified,MCA,Remote,Telecom,4.9,4.7,4.7
+EMP0284,Anil Joshi,5.9,API Testing,Docker,Testing,Kolkata,Telecom,On Notice,16,Available,2026-08-17,AWS Certified,B.Sc,Remote,Healthcare,5.4,2.6,3.4
+EMP0285,Vikram Singh,11.2,TypeScript,Spring Boot,Frontend,Bangalore,Manufacturing,Allocated,14,Claims Platform,2026-09-18,Azure Certified,M.Tech,Remote,Telecom,9.7,3.0,3.2
+EMP0286,Shruti Joshi,11.0,Data Engineering,Docker,Data,Pune,Manufacturing,Unallocated,47,Available,2026-09-17,ISTQB,MCA,Remote,Healthcare,5.0,2.8,3.9
+EMP0287,Ananya Verma,8.4,React,TypeScript,Frontend,Hyderabad,Insurance,Allocated,17,Customer Portal,2026-09-30,AWS Certified,B.E.,Remote,Healthcare,3.6,4.7,4.1
+EMP0288,Aditya Patel,9.1,API Testing,DAX,Testing,Hyderabad,Banking,Unallocated,12,Available,2026-08-28,Power BI Certification,MCA,Onsite,Banking,5.6,3.3,3.4
+EMP0289,Ananya Patel,10.8,Automation Testing,REST APIs,Testing,Kolkata,Manufacturing,Unallocated,5,Available,2026-10-17,Java Certification,B.Sc,Onsite,Manufacturing,8.0,2.9,4.5
+EMP0290,Ravi Joshi,7.9,Spark,Azure,Data,Chennai,Healthcare,Allocated,14,Customer Portal,2026-08-22,ISTQB,MCA,Onsite,Telecom,5.5,4.6,2.7
+EMP0291,Anil Mishra,3.0,JavaScript,AWS,Frontend,Pune,Retail,Unallocated,74,Available,2026-09-26,ISTQB,B.Sc,Onsite,Healthcare,1.8,3.0,2.6
+EMP0292,Rahul Gupta,10.8,JavaScript,TypeScript,Frontend,Bangalore,Banking,Allocated,2,Digital Payments,2026-09-30,AWS Certified,B.Tech,Remote,Telecom,8.7,2.7,3.2
+EMP0293,Divya Iyer,7.7,React,DAX,Frontend,Chennai,Healthcare,Allocated,9,Customer Portal,2026-08-17,GCP Certified,B.Tech,Hybrid,Manufacturing,4.3,4.8,4.7
+EMP0294,Neha Gupta,10.8,Kubernetes,Azure,Cloud,Mumbai,Healthcare,Allocated,4,CRM Upgrade,2026-10-07,Power BI Certification,M.Tech,Remote,Telecom,5.3,2.7,3.3
+EMP0295,Kiran Nair,2.2,GCP,Kubernetes,Cloud,Pune,Telecom,Unallocated,133,Available,2026-08-02,None,MCA,Remote,Banking,1.8,4.5,4.0
+EMP0296,Aditya Iyer,4.6,Go,SQL,Backend,Delhi,Manufacturing,Unallocated,111,Available,2026-10-22,Scrum Master,MCA,Hybrid,Retail,1.8,4.1,3.8
+EMP0297,Ananya Iyer,3.6,API Testing,Postman,Testing,Bangalore,Insurance,Allocated,8,Customer Portal,2026-09-07,Azure Certified,MCA,Onsite,Healthcare,1.8,4.1,3.0
+EMP0298,Priya Reddy,1.0,Python,Kubernetes,Backend,Hyderabad,Manufacturing,Allocated,5,API Modernization,2026-08-02,Java Certification,B.Tech,Hybrid,Banking,0.6,3.4,3.3
+EMP0299,Ravi Verma,5.6,GCP,Spark,Cloud,Hyderabad,Banking,Allocated,10,Data Lake Migration,2026-09-20,Azure Certified,B.Sc,Remote,Insurance,2.6,4.6,4.5
+EMP0300,Siddharth Iyer,11.2,Java,DAX,Backend,Bangalore,Insurance,Allocated,12,API Modernization,2026-08-13,Java Certification,MCA,Remote,Manufacturing,10.4,4.8,2.9
+EMP0301,Rahul Nair,6.2,Go,Spring Boot,Backend,Kolkata,Manufacturing,Unallocated,76,Available,2026-08-28,Azure Certified,B.E.,Onsite,Healthcare,3.4,2.9,3.2
+EMP0302,Arjun Chopra,9.2,Node.js,DAX,Backend,Pune,Manufacturing,Unallocated,10,Available,2026-10-16,GCP Certified,M.Tech,Hybrid,Insurance,4.1,2.7,4.0
+EMP0303,Priya Gupta,4.4,Java,React,Backend,Hyderabad,Retail,Unallocated,137,Available,2026-10-11,ISTQB,MCA,Onsite,Insurance,1.6,3.4,4.3
+EMP0304,Neha Singh,5.8,SQL,React,Data,Hyderabad,Telecom,Allocated,9,Customer Portal,2026-10-09,ISTQB,M.Tech,Onsite,Healthcare,3.0,4.6,4.8
+EMP0305,Anil Pillai,1.3,Cypress,REST APIs,Testing,Pune,Banking,Unallocated,75,Available,2026-10-21,Scrum Master,B.E.,Hybrid,Telecom,1.1,4.4,3.1
+EMP0306,Neha Gupta,9.5,Go,Azure,Backend,Chennai,Retail,Unallocated,127,Available,2026-09-22,ISTQB,B.Tech,Hybrid,Telecom,7.1,2.6,4.8
+EMP0307,Sneha Mishra,2.7,React,AWS,Frontend,Kolkata,Healthcare,Allocated,3,API Modernization,2026-10-07,Power BI Certification,B.Tech,Remote,Insurance,1.9,2.7,4.8
+EMP0308,Sneha Nair,10.7,TypeScript,Python,Frontend,Delhi,Healthcare,Allocated,14,Cloud Transformation,2026-10-30,AWS Certified,B.Sc,Remote,Telecom,4.0,2.7,3.3
+EMP0309,Aditya Iyer,1.6,Vue,Docker,Frontend,Mumbai,Manufacturing,Allocated,17,Claims Platform,2026-10-12,GCP Certified,B.Sc,Onsite,Telecom,1.0,2.8,4.1
+EMP0310,Meera Chopra,8.2,Data Engineering,SQL,Data,Mumbai,Healthcare,Allocated,3,Cloud Transformation,2026-10-24,GCP Certified,B.Sc,Onsite,Healthcare,7.5,4.8,3.9
+EMP0311,Isha Iyer,5.0,Spark,Azure,Data,Mumbai,Insurance,Allocated,10,CRM Upgrade,2026-10-10,Power BI Certification,M.Tech,Remote,Healthcare,4.6,2.5,2.6
+EMP0312,Aarav Reddy,0.7,Python,Docker,Data,Hyderabad,Technology,Unallocated,77,Available,2026-09-10,AWS Certified,M.Tech,Onsite,Telecom,0.5,4.8,2.9
+EMP0313,Arjun Iyer,4.4,Node.js,Docker,Backend,Chennai,Technology,Unallocated,93,Available,2026-09-08,Azure Certified,B.Sc,Remote,Telecom,4.0,4.3,4.3
+EMP0314,Priya Mishra,5.9,Azure,AWS,Cloud,Chennai,Banking,Allocated,18,CRM Upgrade,2026-08-11,AWS Certified,M.Tech,Remote,Technology,3.6,4.8,2.8
+EMP0315,Aditya Sharma,10.7,Vue,Kubernetes,Frontend,Mumbai,Banking,Allocated,20,Cloud Transformation,2026-10-09,GCP Certified,M.Tech,Onsite,Manufacturing,5.2,2.6,4.3
+EMP0316,Divya Joshi,8.8,DevOps,Kubernetes,Cloud,Kolkata,Healthcare,Allocated,2,Customer Portal,2026-08-17,ISTQB,B.Tech,Remote,Telecom,7.0,3.9,3.2
+EMP0317,Shruti Pillai,5.3,Kubernetes,Docker,Cloud,Pune,Healthcare,Allocated,4,Claims Platform,2026-10-11,Java Certification,B.E.,Hybrid,Retail,4.3,3.3,4.8
+EMP0318,Rahul Nair,7.9,Java,REST APIs,Backend,Mumbai,Manufacturing,Allocated,11,Core Banking Modernization,2026-09-09,GCP Certified,M.Tech,Onsite,Technology,7.5,3.6,2.9
+EMP0319,Priya Singh,2.7,Python,Spring Boot,Backend,Hyderabad,Telecom,Unallocated,21,Available,2026-08-19,Power BI Certification,B.Tech,Remote,Manufacturing,2.2,3.3,3.7
+EMP0320,Rohan Chopra,8.6,Power BI,Kubernetes,Data,Mumbai,Healthcare,Unallocated,139,Available,2026-10-19,GCP Certified,B.Tech,Remote,Telecom,7.7,3.8,3.1
+EMP0321,Sneha Mehta,2.7,C#,AWS,Backend,Bangalore,Banking,Allocated,8,CRM Upgrade,2026-10-24,Power BI Certification,M.Tech,Hybrid,Banking,1.4,4.7,3.5
+EMP0322,Shruti Verma,11.2,Kubernetes,Azure,Cloud,Mumbai,Banking,Unallocated,80,Available,2026-08-24,Java Certification,B.Sc,Remote,Telecom,10.1,2.6,3.1
+EMP0323,Aarav Nair,4.2,API Testing,AWS,Testing,Chennai,Retail,Unallocated,40,Available,2026-10-20,Power BI Certification,B.E.,Onsite,Retail,3.5,4.1,4.7
+EMP0324,Aditya Kulkarni,10.9,Go,SQL,Backend,Bangalore,Manufacturing,Unallocated,87,Available,2026-09-18,Java Certification,MCA,Hybrid,Telecom,4.8,4.9,4.8
+EMP0325,Arjun Pillai,6.5,Data Engineering,AWS,Data,Kolkata,Insurance,Unallocated,35,Available,2026-08-18,Power BI Certification,B.Sc,Hybrid,Healthcare,6.2,4.9,2.9
+EMP0326,Meera Nair,4.0,Cypress,Postman,Testing,Hyderabad,Manufacturing,Allocated,3,Core Banking Modernization,2026-09-10,Scrum Master,MCA,Remote,Healthcare,3.2,4.6,4.1
+EMP0327,Aarav Chopra,9.1,Power BI,Azure,Data,Mumbai,Retail,Unallocated,47,Available,2026-10-17,Java Certification,B.Sc,Hybrid,Insurance,6.9,3.4,4.2
+EMP0328,Pooja Gupta,6.0,Azure,Postman,Cloud,Pune,Healthcare,Allocated,20,API Modernization,2026-08-18,GCP Certified,B.E.,Hybrid,Banking,3.6,4.9,4.8
+EMP0329,Ravi Gupta,8.7,Azure,React,Cloud,Kolkata,Telecom,On Notice,6,Available,2026-10-02,ISTQB,MCA,Hybrid,Healthcare,5.2,2.6,4.3
+EMP0330,Isha Pillai,4.8,GCP,Python,Cloud,Delhi,Manufacturing,On Notice,18,Available,2026-08-05,Azure Certified,MCA,Remote,Technology,4.2,4.7,3.1
+EMP0331,Rohan Chopra,11.3,Performance Testing,AWS,Testing,Bangalore,Insurance,Unallocated,99,Available,2026-09-07,None,MCA,Remote,Technology,9.6,3.7,3.6
+EMP0332,Siddharth Patel,8.1,Selenium,DAX,Testing,Mumbai,Banking,Allocated,14,Customer Portal,2026-10-14,GCP Certified,MCA,Remote,Retail,5.0,2.9,4.0
+EMP0333,Priya Patel,1.5,TypeScript,Microservices,Frontend,Delhi,Healthcare,Unallocated,41,Available,2026-10-21,ISTQB,B.Tech,Onsite,Manufacturing,0.9,4.5,3.8
+EMP0334,Vikram Mishra,6.6,TypeScript,Postman,Frontend,Delhi,Technology,Unallocated,43,Available,2026-08-20,GCP Certified,B.E.,Hybrid,Technology,5.1,3.5,3.3
+EMP0335,Rahul Sharma,7.4,GCP,Azure,Cloud,Kolkata,Retail,Unallocated,33,Available,2026-08-02,None,MCA,Remote,Telecom,6.2,4.0,3.7
+EMP0336,Ravi Mishra,7.8,Vue,Azure,Frontend,Bangalore,Insurance,Allocated,14,Data Lake Migration,2026-10-19,Java Certification,B.Tech,Hybrid,Insurance,3.0,3.4,2.9
+EMP0337,Sneha Patel,9.7,Go,TypeScript,Backend,Hyderabad,Insurance,Unallocated,22,Available,2026-10-26,Power BI Certification,B.Sc,Onsite,Manufacturing,7.5,3.9,3.9
+EMP0338,Vikram Nair,4.5,Kubernetes,TypeScript,Cloud,Kolkata,Banking,Unallocated,76,Available,2026-09-24,Azure Certified,M.Tech,Remote,Insurance,1.9,4.6,3.3
+EMP0339,Priya Mishra,2.8,Kubernetes,DAX,Cloud,Delhi,Telecom,Unallocated,14,Available,2026-08-12,None,B.Sc,Onsite,Retail,1.7,4.6,3.1
+EMP0340,Rohan Singh,4.4,Automation Testing,AWS,Testing,Pune,Healthcare,Unallocated,127,Available,2026-08-24,Java Certification,M.Tech,Hybrid,Banking,1.9,3.7,4.5
+EMP0341,Pooja Pillai,11.5,Vue,Spark,Frontend,Delhi,Insurance,Unallocated,85,Available,2026-08-02,Java Certification,M.Tech,Remote,Technology,4.5,3.3,3.9
+EMP0342,Meera Iyer,8.0,Java,REST APIs,Backend,Kolkata,Retail,Unallocated,7,Available,2026-10-26,None,MCA,Hybrid,Manufacturing,3.5,2.9,3.7
+EMP0343,Rohan Reddy,5.6,API Testing,Azure,Testing,Delhi,Manufacturing,Allocated,1,Cloud Transformation,2026-10-11,AWS Certified,B.E.,Onsite,Manufacturing,3.1,4.8,4.5
+EMP0344,Neha Verma,3.6,Python,SQL,Backend,Mumbai,Telecom,Unallocated,96,Available,2026-09-19,GCP Certified,B.Sc,Hybrid,Technology,2.9,3.3,4.6
+EMP0345,Pooja Mehta,5.1,C#,Postman,Backend,Chennai,Insurance,Allocated,7,Data Lake Migration,2026-08-23,Azure Certified,M.Tech,Hybrid,Technology,2.4,2.7,3.8
+EMP0346,Rohan Reddy,2.2,Kubernetes,Spark,Cloud,Chennai,Insurance,Unallocated,123,Available,2026-08-13,GCP Certified,B.E.,Onsite,Banking,1.4,4.3,3.8
+EMP0347,Ravi Nair,10.8,C#,React,Backend,Bangalore,Banking,Allocated,19,Data Lake Migration,2026-08-03,Power BI Certification,B.E.,Remote,Insurance,5.0,3.2,3.3
+EMP0348,Aarav Mishra,3.5,AWS,Python,Cloud,Mumbai,Banking,Unallocated,29,Available,2026-08-27,ISTQB,B.Sc,Remote,Retail,1.5,4.3,3.2
+EMP0349,Neha Mehta,1.3,Angular,Spring Boot,Frontend,Hyderabad,Banking,Allocated,10,API Modernization,2026-10-26,AWS Certified,B.Tech,Remote,Banking,0.5,3.5,4.3
+EMP0350,Neha Patel,7.3,Performance Testing,Spark,Testing,Kolkata,Healthcare,Unallocated,50,Available,2026-10-12,GCP Certified,B.Tech,Onsite,Healthcare,3.0,3.3,4.1
