@@ -70,5 +70,26 @@ employee-allocation-ai/
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+Technology:
+--------------------------------------------------------------------------------------
+| Technology      | What it does              | Why you use it                       |
+| --------------- | ------------------------- | ------------------------------------ |
+| Python          | Main programming language | Entire pipeline/application          |
+| Pandas          | Data processing           | Employee tabular data                |
+| NumPy           | Numerical operations      | ML calculations                      |
+| Sentence-BERT   | Semantic embeddings       | Skill/project matching               |
+| Scikit-learn    | ML algorithms             | K-Means/clustering and preprocessing |
+| SQLite          | Database                  | Store enhanced employee data         |
+| SQLAlchemy      | DB connectivity           | Python ↔ SQLite                      |
+| Streamlit       | UI/web app                | Interactive application              |
+| Plotly          | Visualization             | Charts/analytics                     |
+| Groq            | LLM inference             | Natural-language understanding       |
+| LangChain       | LLM orchestration         | Connect LLM with tools/data          |
+| Git             | Version control           | Track code                           |
+| GitHub          | Repository                | Source/deployment                    |
+| Streamlit Cloud | Hosting                   | Public application                   |
+| Excel           | Input                     | Employee dataset                     |
+--------------------------------------------------------------------------------------
+
 
     
